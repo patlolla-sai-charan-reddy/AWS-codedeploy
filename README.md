@@ -1,3 +1,3 @@
 # AWS-codedeploy
 
-Integrating the Application with AWS.
+Integrated GIT with AWS; The revision type is from github.
