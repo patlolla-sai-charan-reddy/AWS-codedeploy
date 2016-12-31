@@ -17,4 +17,4 @@ Steps to integrate:
 6) Mention the Access Key ID, Secret access key and AWS region for successful creation of services and integration.
 
 
-                                                          Thank You!
+                                                      Thank You!
