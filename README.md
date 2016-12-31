@@ -1,6 +1,6 @@
 # AWS-codedeploy
 
-Integrated GIT with AWS; The revision type chosen is from github.
+CONTINOUS DELIVERY WITH GITHUB INTEGRATION
 
 Steps to integrate:
 
