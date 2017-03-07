@@ -17,3 +17,4 @@ hooks:
     - location: scripts/webserver-stop.sh
   AfterInstall:
     - location: scripts/webserver-start.sh
+
